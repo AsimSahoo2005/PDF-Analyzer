@@ -1,0 +1,5 @@
+{
+  "name": "PDF Analyzer & Learning Assistant",
+  "description": "An AI-powered tool to analyze PDF files. Generate summaries, create 4-week learning strategies, and get quizzes based on the document's content to enhance your learning and productivity.",
+  "requestFramePermissions": []
+}
